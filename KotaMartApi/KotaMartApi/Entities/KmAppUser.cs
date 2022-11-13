@@ -12,3 +12,4 @@
         public string PasswordSalt { get; set; }
     }
 }
+
